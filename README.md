@@ -1,6 +1,6 @@
 # Data-Analytic-with-Excel-and-R-Capstone-Project
 
-Project Title: Analyzing Weather Impact on Bike-Sharing Demand and Developing an Interactive Dashboard for Global Cities
+Project Title: Urban Bike-Sharing Forecasting and Optimization Worldwide​
 
 For Capstone Project
 This project analyzes the impact of weather on bike-sharing demand in urban areas, with a focus on Seoul and extending to other global cities. It involves building predictive models to forecast bike-sharing demand based on weather conditions and creating interactive maps and dashboards to visualize these insights.
